@@ -1,32 +1,13 @@
-
-
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
 
-
-
-
-
-
-
-
 body{
-   padding-top: 50px;
+	font-size: 16px;
 }
-.color1{
-   background-color: #FAED3F;
-
+.contenido-scrollspy{
+	overflow-y: scroll;
+	height: 550px;
 }
-
-.color5{
-   background-color: #9EFD33;
-   margin-left: 90px;
-
-}
-
-
-
-
 
 
